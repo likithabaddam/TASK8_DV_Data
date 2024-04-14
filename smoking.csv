@@ -1,0 +1,30 @@
+gender,age,marital_status,highest_qualification,gross_income,smoke
+Male,25,Single,Degree,3456,No
+Female,27,Single,Degree,3564,No
+Male,29,Married,Degree,2640,No
+Female,30,Single,Degree,2860,No
+Female,34,Married,GCSE/CSE,520,Yes
+Female,36,Married,GCSE/O Level,104,Yes
+Female,37,Married,GCSE/O Level,2800,No
+Male,38,Divorced,No Qualification,5000,No
+Female,38,Married,No Qualification,5200,No
+Female,39,Married,GCSE/O Level,5200,No
+Male,40,Married,Degree,4000,No
+Female,40,Married,Degree,5060,No
+Male,40,Single,GCSE/CSE,5200,Yes
+Female,41,Married,No Qualification,1046,Yes
+Female,42,Single,No Qualification,2600,Yes
+Male,44,Single,Degree,1040,No
+Male,47,Divorced,No Qualification,669,No
+Male,49,Married,No Qualification,0.00,No
+Male,53,Married,Degree,3600,Yes
+Male,55,Married,No Qualification,250,No
+Female,36,Married,No Qualification,2665,Yes
+Female,28,Divorced,No Qualification,5200,Yes
+Female,46,Single,Other/Sub Degree,900,No
+Female,53,Married,No Qualification,2600,No
+Male,41,Divorced,No Qualification,4952,No
+Male,53,Widowed,No Qualification,1560,No
+Female,46,Widowed,No Qualification,1560,No
+Female,30,Married,No Qualification,2600,No
+Male,55,Widowed,No Qualification,5200,No
